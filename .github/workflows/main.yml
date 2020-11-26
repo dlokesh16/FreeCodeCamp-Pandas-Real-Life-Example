@@ -43,7 +43,7 @@ jobs:
           # Source folder from the origin directory
           source_folder: FreeCodeCamp-Pandas-Real-Life-Example
           # Destination repository
-          destination_repo: FreeCodeCamp-Data-Analysis-with-Python-Certification-300-hours
+          destination_repo: dlokesh16/FreeCodeCamp-Data-Analysis-with-Python-Certification-300-hours
           # Directory to push the folder contents to
           destination_folder: FreeCodeCamp-Pandas-Real-Life-Example
           # Email for the git commit
